@@ -9,7 +9,7 @@ const ListLink = props => (
 )
 
 export default ({ children }) => (
-    <div style={{ margin: `3rem auto`, maxWidth: 850, padding: `0 1rem` }}>
+    <div style={{ margin: `3rem auto`, maxWidth: 900, padding: `0 1rem` }}>
     <header style={{ marginBottom: `1.5rem` }}>
         <Link to="/" style={{ textShadow: `none`, backgroundImage: `none` }}>
             <h3 style={{ display: `inline` }}>OSU Hackathon Club</h3>
@@ -19,6 +19,7 @@ export default ({ children }) => (
             <ListLink to="/about/">About</ListLink>
             <ListLink to="/membership">Membership</ListLink>
             <ListLink to="/resources">Resources</ListLink>
+            <ListLink to="/archive">Archive</ListLink>
             <ListLink to="/contact/">Contact</ListLink>
         </ul>
     </header>
