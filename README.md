@@ -2,6 +2,6 @@
 OSU Hackathon Club Website
 
 ## Contributors
-Karen Berba
-Jordan Bartos
-Ryan Davis
+* Karen Berba
+* Jordan Bartos
+* Ryan Davis
