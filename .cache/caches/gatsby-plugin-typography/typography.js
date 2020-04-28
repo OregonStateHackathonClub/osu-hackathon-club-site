@@ -1,0 +1,1 @@
+module.exports = require("/Users/karenberba/Desktop/osu-hackathon-club-site/src/utils/typography")
