@@ -21,7 +21,6 @@ export default () => (
 
         <h2>Past HackerRank Challenges</h2>
 
-
         <h2>Past Workshops</h2>
     </Layout>
 )
