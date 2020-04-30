@@ -14,11 +14,13 @@ export default () => (
             <p> Our mission is to strengthen the OSU community by fostering connections between students and building stronger programming skills through quarterly coding competitions and workshops. </p>
         </Jumbotron>
 
-        <h2>Upcoming Events!</h2><br />
-        <h4>HackerRank Weekly Challenges</h4>            
-        <a href="https://osu-cs.slack.com/"><Button variant="orange" size="sm">Take on our challenges here!</Button></a>
-        <br />
-        <br />
-        <h4>BeaverHacks Summer 2020</h4><p>More information coming soon!</p>
+        <h2>Upcoming Events!</h2>
+        <div className="upcoming-events">
+            <h4>HackerRank Weekly Challenges</h4>            
+            <a href="https://osu-cs.slack.com/"><Button variant="orange" size="sm">Take on our challenges here!</Button></a>
+            <br />
+            <br />
+            <h4>BeaverHacks Summer 2020</h4><p>More information coming soon!</p>
+        </div>
     </Layout>
 )

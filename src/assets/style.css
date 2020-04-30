@@ -14,3 +14,29 @@ p {
 a {
     color: #FF5733;
 }
+
+.about-section {
+    background-color: #e76f51;
+    /* opacity: 0.5; */
+    padding: 40px 50px;
+}
+
+.current-board {
+    background-color: #e9c46a;
+    padding: 20px 50px;
+}
+
+.past-board {
+    background-color: #2a9d8f;
+    padding: 20px 50px;
+}
+
+.upcoming-events {
+    background-color: #e9c46a;
+    padding: 20px 50px;
+}
+
+.join {
+    background-color: #2a9d8f;
+    padding: 20px 50px;
+}

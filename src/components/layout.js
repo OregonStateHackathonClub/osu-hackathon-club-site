@@ -32,6 +32,6 @@ export default ({ children }) => (
           </ul>
         </Navbar>
     </header>
-    {children}
+    <div>{children}</div>
     </div>
 )
