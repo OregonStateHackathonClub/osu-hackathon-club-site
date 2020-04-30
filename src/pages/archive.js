@@ -1,9 +1,10 @@
-import React from "react"
-import Layout from "../components/layout"
+import React from "react";
+import Layout from "../components/layout";
 
 export default () => (
     <Layout>
         <h1>Archive</h1>
+        <br />
 
         <h2>Past Hackathons</h2>
 
@@ -19,8 +20,12 @@ export default () => (
             <p><a href="https://beaverhacks-spring18.devpost.com/">BeaverHacks Spring 2018</a></p>
             <p><a href="https://osuwinter18.devpost.com/">BeaverHacks Winter 2018</a></p>
 
+        <br />
+        <br />
         <h2>Past HackerRank Challenges</h2>
 
+        <br />
+        <br />
         <h2>Past Workshops</h2>
     </Layout>
 )

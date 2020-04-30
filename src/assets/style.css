@@ -1,0 +1,12 @@
+h1, h2, h3, h4 {
+    font-family: "Bangers";
+}
+
+p {
+    font-family: "Open Sans";
+}
+
+.btn-orange {
+    background-color: #FF5733;
+    color: white;
+}
