@@ -13,6 +13,7 @@ const ListLink = props => (
 export default ({ children }) => (
     <div style={{ margin: `3rem auto`, maxWidth: 900, padding: `0 1rem` }}>
     <Helmet>
+      <title>OSU Hackathon Club</title>
       <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet" />
       <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap" rel="stylesheet"></link>
     </Helmet>
