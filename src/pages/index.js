@@ -20,7 +20,7 @@ export default () => (
             <a href="https://osu-cs.slack.com/"><Button variant="orange" size="sm">Take on our challenges here!</Button></a>
             <br />
             <br />
-            <h4>BeaverHacks Summer 2020</h4><p>Register on Devpost by 11:59 pm on 6/15</p><a href="https://beaverhacks-summer-2020.devpost.com/"><Button>Devpost</Button></a>
+            <h4>BeaverHacks Summer 2020</h4><p>Register on Devpost by 11:59 pm on 6/15</p><a href="https://beaverhacks-summer-2020.devpost.com/"><Button varient="orange" size="sm">Devpost</Button></a>
         </div>
     </Layout>
 )
