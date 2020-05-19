@@ -19,7 +19,7 @@ export default () => (
         <h2>Upcoming Events!</h2>
         <div className="upcoming-events">
             <h4>HackerRank Weekly Challenges</h4>            
-            <a href="https://osu-cs.slack.com/"><Button variant="orange" size="sm">Take on our challenges here!</Button></a>
+            <a href="https://osu-cs.slack.com/archives/C5GHWF84A"><Button variant="orange" size="sm">Take on our challenges here!</Button></a>
             <br />
             <br />
             <h4>BeaverHacks Summer 2020</h4><p>Register on Devpost by 11:59 pm on 6/15</p><a href="https://beaverhacks-summer-2020.devpost.com/"><Button variant="orange" size="sm">Devpost</Button></a>
