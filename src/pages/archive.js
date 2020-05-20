@@ -9,16 +9,16 @@ export default () => (
         <h2>Past Hackathons</h2>
 
         <h3>2020</h3>
-            <p><a href="https://osu-spring2020.devpost.com/">BeaverHacks Spring 2020</a></p>
+            <p><a href="https://osu-spring2020.devpost.com/" target="_blank">BeaverHacks Spring 2020</a></p>
 
         <h3>2019</h3>
-            <p><a href="https://osuhackathon-summer2019.devpost.com/">BeaverHacks Summer 2019</a></p>
+            <p><a href="https://osuhackathon-summer2019.devpost.com/" target="_blank">BeaverHacks Summer 2019</a></p>
 
         <h3>2018</h3>
-            <p><a href="https://beaverhacks-fall-18.devpost.com/">BeaverHacks Fall 2018</a></p>
-            <p><a href="https://beaverhacks-summer-18.devpost.com/">BeaverHacks Summer 2018</a></p>
-            <p><a href="https://beaverhacks-spring18.devpost.com/">BeaverHacks Spring 2018</a></p>
-            <p><a href="https://osuwinter18.devpost.com/">BeaverHacks Winter 2018</a></p>
+            <p><a href="https://beaverhacks-fall-18.devpost.com/" target="_blank">BeaverHacks Fall 2018</a></p>
+            <p><a href="https://beaverhacks-summer-18.devpost.com/" target="_blank">BeaverHacks Summer 2018</a></p>
+            <p><a href="https://beaverhacks-spring18.devpost.com/" target="_blank">BeaverHacks Spring 2018</a></p>
+            <p><a href="https://osuwinter18.devpost.com/" target="_blank">BeaverHacks Winter 2018</a></p>
 
         <br />
         <br />
