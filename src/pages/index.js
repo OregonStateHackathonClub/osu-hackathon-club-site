@@ -5,10 +5,14 @@ import Jumbotron from 'react-bootstrap/Jumbotron';
 import "../assets/style.css";
 import Button from "react-bootstrap/Button";
 import logo from "../assets/img/osu_hackathon_club_logo_icon_right.png";
+import { Helmet } from "react-helmet";
 
 
 export default () => (
     <Layout>
+        <Helmet>
+            <title>Home | Oregon State University Hackathon Club</title>
+        </Helmet>
         <Jumbotron>
             <h1>Oregon State University Hackathon Club</h1>
             <br />

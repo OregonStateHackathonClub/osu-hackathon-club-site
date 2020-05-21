@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import Navbar from 'react-bootstrap/Navbar';
-import {Helmet} from "react-helmet";
+import { Helmet } from "react-helmet";
 
 
 const ListLink = props => (
@@ -13,7 +13,7 @@ const ListLink = props => (
 export default ({ children }) => (
     <div style={{ margin: `3rem auto`, maxWidth: 900, padding: `0 1rem` }}>
     <Helmet>
-      <title>OSU Hackathon Club</title>
+      <title>Oregon State University Hackathon Club</title>
       <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet" />
       <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap" rel="stylesheet"></link>
     </Helmet>
@@ -28,7 +28,7 @@ export default ({ children }) => (
               <ListLink to="/membership">Membership</ListLink>
               <ListLink to="/resources">Resources</ListLink>
               <ListLink to="/archive">Archive</ListLink>
-              <ListLink to="/contact/">Contact</ListLink>
+              <ListLink to="/contact/">Contact Us</ListLink>
           </ul>
         </Navbar>
     </header>

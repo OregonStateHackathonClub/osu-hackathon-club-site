@@ -1,9 +1,13 @@
 import React from "react";
 import Layout from "../components/layout";
 import Button from "react-bootstrap/Button";
+import { Helmet } from "react-helmet";
 
 export default () => (
     <Layout>
+        <Helmet>
+            <title>Membership | Oregon State University Hackathon Club</title>
+        </Helmet>
         <h1>Join Us!</h1>
         <p>Become a member in three easy steps!</p>
         <br />

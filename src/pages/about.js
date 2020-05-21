@@ -1,9 +1,13 @@
 import React from "react";
 import Layout from "../components/layout";
+import { Helmet } from "react-helmet";
 
 
 export default () => (
     <Layout>
+        <Helmet>
+            <title>About | Oregon State University Hackathon Club</title>
+        </Helmet>
         <h1>About Us</h1>
         <div className="about-section">
             <p>We're the OSU Hackathon Club -- all OSU students are welcome and encouraged to join!</p> 
