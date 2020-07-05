@@ -9,6 +9,7 @@ export default () => (
             <title>Membership | Oregon State University Hackathon Club</title>
         </Helmet>
         <h1>Join Us!</h1>
+        <p>All OSU students are welcome and encouraged to join!</p>
         <p>Become a member in three easy steps!</p>
         <br />
         <div className="join">

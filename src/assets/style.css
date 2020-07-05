@@ -46,4 +46,28 @@ div.scroll {
     overflow-x: hidden; 
     overflow-y: auto; 
     text-align:justify; 
-} 
+}
+
+div.orange {
+    background-color: #e76f51;
+    padding: 20px;
+}
+
+div.yellow {
+    background-color: #e9c46a;
+    padding: 20px;
+}
+
+div.blue {
+    background-color: cornflowerblue;
+    padding: 20px;
+}
+
+div.green {
+    background-color: darkseagreen;
+    padding: 20px;
+}
+
+div.right {
+    text-align: right;
+}
