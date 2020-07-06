@@ -13,6 +13,7 @@ p {
 
 a {
     color: #FF5733;
+    background-color: transparent;
 }
 
 .about-section {
@@ -70,4 +71,9 @@ div.green {
 
 div.right {
     text-align: right;
+}
+
+div.gray {
+    background-color: rgba(247, 247, 247, 0.61);
+    padding: 20px;
 }
