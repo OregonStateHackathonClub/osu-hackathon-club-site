@@ -77,3 +77,19 @@ div.gray {
     background-color: rgba(247, 247, 247, 0.61);
     padding: 20px;
 }
+
+.clearboth {
+    font-size: 1px;
+    line-height: 0px;
+    clear: both;
+    height: 0px;
+}
+
+footer {
+    text-align: center;
+    font-size: 15px;
+    font-family: "Bangers";
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
