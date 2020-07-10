@@ -35,7 +35,7 @@ export default ({ children }) => (
     <div>{children}</div>
       <br className="clearboth" />
       <footer>
-        (c) Oregon State University Hackathon Club
+        (c) Oregon State University Hackathon Club 
       </footer>
     </div>
 )

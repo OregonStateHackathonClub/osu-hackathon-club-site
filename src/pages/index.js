@@ -42,13 +42,20 @@ export default () => (
 
             <br />
             <div className="blue">
+                <h3>May 14, 2020</h3>
+                <h4>Hackathon Club in the OSU EECS News!</h4>
+                <p><a href="http://blogs.oregonstate.edu/eecsnews/2020/05/14/its-business-as-usual-for-online-hackathon-club/"><Button variant="orange" size="sm">Article here</Button></a></p>
+            </div>
+
+            <br />
+            <div className="green">
                 <h3>May 7, 2020</h3>
                 <h4>BeaverHacks Summer 2020</h4><p>Register on Devpost by 11:59 pm on 6/15</p><a href="https://beaverhacks-summer-2020.devpost.com/" target="_blank"><Button variant="orange" size="sm">Devpost</Button></a>
             </div>
 
             <br />
 
-            <div className="green">
+            <div className="blue">
                 <h3>April 27, 2020</h3>
                 <h4>HackerRank Weekly Challenges</h4>            
                 <a href="https://osu-cs.slack.com/archives/C5GHWF84A" target="_blank"><Button variant="orange" size="sm">Take on our challenges here!</Button></a>

@@ -9,7 +9,6 @@ export default () => (
         </Helmet>
         <h1>Archive</h1>
         <br />
-
         <h2>Past Hackathons</h2>
         <div className="scroll green">
             <div className="gray">
@@ -32,16 +31,36 @@ export default () => (
                     <p><a href="https://beaverhacks-spring18.devpost.com/" target="_blank">BeaverHacks Spring 2018</a></p>
                     <p><a href="https://osuwinter18.devpost.com/" target="_blank">BeaverHacks Winter 2018</a></p>
             </div>
+        </div>
 
+        <br />
+        <br />
+        <h2>Articles</h2>
+        <div className="scroll green">
+            <div className="gray">
+                <h3>It's business as usual for online Hackathon Club</h3>
+                <p>Source: OSU EECS News</p>
+                <p><a href="http://blogs.oregonstate.edu/eecsnews/2020/05/14/its-business-as-usual-for-online-hackathon-club/">Link to article</a></p>
+            </div>
         </div>
         
         <br />
         <br />
         <h2>Past HackerRank Challenges</h2>
+        <div className="scroll green">
+            <div className="gray">
+                <p>Coming soon!</p>
+            </div>
+        </div>
 
         <br />
         <br />
         <h2>Past Workshops</h2>
+        <div className="scroll green">
+            <div className="gray">
+                <p>Coming soon!</p>
+            </div>
+        </div>
     </Layout>
 )
 
