@@ -7,3 +7,13 @@ OSU Hackathon Club Website
 * Karen Berba
 * Jordan Bartos
 * Ryan Davis
+
+## Rules for Contributing
+* Create a new branch for features to be added
+* Name branch: Feature/FeatureToBeAdded (e.g. Feature/AddingNewSection)
+(Note: Make sure you don't lump a bunch of unrelated changes under one PR!)
+* Make a Pull Request when ready to merge changes to the master branch
+* On your PR, add a picture or quick video of your changes
+* Under Reviewers (section on the top right), request kberba to review PR
+* Let Karen know of your changes on Slack! :)
+* Feel free to add your name under Contributers on README.md
