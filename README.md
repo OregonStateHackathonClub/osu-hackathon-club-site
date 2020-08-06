@@ -10,6 +10,8 @@ https://www.beaverhacks.com/
 * Karen Berba
 * Jordan Bartos
 * Ryan Davis
+* HJ
+* Sam Kinkade
 
 ## Rules for Contributing
 1. Create a new branch for features to be added
@@ -33,6 +35,10 @@ git clone git@github.com:kberba/osu-hackathon-club-site.git
 cd osu-hackathon-club-site
 ```
 5. Install project dependencies (npm/npx can also be used in place of yarn):
+```
 yarn install
+```
 6. Build and run the site:
+```
 yarn start
+```
