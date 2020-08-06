@@ -11,7 +11,7 @@ export default () => (
         <h1>Join Us!</h1>
         <p>All OSU students are welcome and encouraged to join!</p>
         <p>Become a member in three easy steps!</p>
-        <br />
+
         <div className="join scroll">
             <div className="gray">
                 <h4>Step 1: Fill out the Google Form</h4>
@@ -27,12 +27,19 @@ export default () => (
 
             <div className="gray">
                 <h4>Step 3: Join us on Slack*</h4>
-                    <p>*Note: Both slack workspaces are open to all OSU students (on-campus and Ecampus) with a valid OSU email! :)</p>
-                    <a href="https://osu-cs.slack.com/" target="_blank"><Button variant="orange" size="sm">OSU Online CS (Unofficial) Slack - Hackathon Channel #hackathons</Button></a>
-                    <br />
-                    <br />
-                    <a href="https://osu-hackathon.slack.com" target="_blank"><Button variant="orange" size="sm">OSU Hackathon Slack (used for hackathons)</Button></a>
+                    <p>*Note: The Slack workspace is open to all OSU students (on-campus and Ecampus) with a valid OSU email! :)</p>
+                    <a href="https://osu-hackathon.slack.com" target="_blank"><Button variant="orange" size="sm">Official OSU Hackathon Club Slack Workspace</Button></a>
             </div>
+        </div>
+        <br />
+
+        <h1>Club Constitution</h1>
+        <div className="blue">
+            <div className="gray">
+                <p>Find out more about officer position requirements here!</p>
+                <a href="https://drive.google.com/file/d/1HBQVOznpinDAa59Nr7FPYiixhnuHgjaw/view?usp=sharing" target="_blank"><Button variant="orange" size="sm">Hackathon Club Constitution</Button></a>
+            </div>
+
         </div>
     </Layout>
 )

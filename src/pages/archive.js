@@ -20,6 +20,8 @@ export default () => (
                         <p><a href="https://www.youtube.com/watch?v=Vxig1U0EfPU">Meeting Recording</a> </p>
             </div>
         </div>
+        <br />
+        <br />
         <h2>Past Hackathons</h2>
         <div className="scroll green">
             <div className="gray">

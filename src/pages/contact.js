@@ -11,10 +11,9 @@ export default () => (
         <h1>Contact Us</h1>
         <div className="blue">
                 <div className="gray">
-                <p> If you have any questions about our upcoming events or have any ideas for future events, please email us at the address below! Thank you, and we look forward to hearing from you! </p>
-                <p>
-                <a href="mailto:hackathonclub@oregonstate.edu"><Button variant="orange" size="sm">hackathonclub@oregonstate.edu</Button></a>
-                </p>
+                <p> If you have any questions about our upcoming events or have any ideas for future events, please email us at <a href="mailto:hackathonclub@oregonstate.edu"><Button variant="orange" size="sm">hackathonclub@oregonstate.edu</Button></a>!</p>
+                <p>We can also be reached at the <a href="https://osu-hackathon.slack.com" target="_blank"><Button variant="orange" size="sm">Official OSU Hackathon Club Slack Workspace</Button></a>!</p>
+                <p>Thank you, and we look forward to hearing from you! </p>
             </div>
         </div>
     </Layout>
