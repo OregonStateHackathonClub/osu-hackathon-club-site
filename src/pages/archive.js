@@ -9,6 +9,17 @@ export default () => (
         </Helmet>
         <h1>Archive</h1>
         <br />
+        <h2>Club Meetings</h2>
+        <div className="scroll green">
+            <div className="gray">
+                <h3>2020</h3>
+                    <h4>August</h4>
+                        <p>Slide and recording links coming soon!</p>
+                    <h4>July</h4>
+                        <p><a href="https://docs.google.com/presentation/d/1XW-YbOhOEzJ5uaqXQCbsYp-LHQIA4wmx8NX2QPAYKwE/edit#slide=id.p">Meeting Slides</a></p>
+                        <p><a href="https://www.youtube.com/watch?v=Vxig1U0EfPU">Meeting Recording</a> </p>
+            </div>
+        </div>
         <h2>Past Hackathons</h2>
         <div className="scroll green">
             <div className="gray">

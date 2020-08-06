@@ -29,6 +29,21 @@ export default () => (
         <div className="upcoming-events scroll">
             <br />
             <div className="green">
+                <h3>August 12, 2020</h3>
+                <h4>Club Meeting!:</h4>
+                <p>We'll be discussing officer nominations and voting! Make sure to tune in!</p>
+            </div>
+            <br />
+
+            <div className="green">
+                <h3>July 22, 2020</h3>
+                <h4>Club Meeting!:</h4>
+                <p>We'll be discussing BeaverHacks, open officer positions, 
+                    future ideas for the club, and more! (The meeting recording and slides 
+                    will be posted later for those who can't make it.)</p>
+            </div>
+            <br />
+            <div className="green">
                 <h3>July 5, 2020</h3>
                 <h4>BeaverHacks Summer 2020 Results:</h4>
                 <ul>
