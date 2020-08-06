@@ -16,8 +16,8 @@ export default () => (
                     <h4>August</h4>
                         <p>Slide and recording links coming soon!</p>
                     <h4>July</h4>
-                        <p><a href="https://docs.google.com/presentation/d/1XW-YbOhOEzJ5uaqXQCbsYp-LHQIA4wmx8NX2QPAYKwE/edit#slide=id.p">Meeting Slides</a></p>
-                        <p><a href="https://www.youtube.com/watch?v=Vxig1U0EfPU">Meeting Recording</a> </p>
+                        <p><a href="https://docs.google.com/presentation/d/1XW-YbOhOEzJ5uaqXQCbsYp-LHQIA4wmx8NX2QPAYKwE/edit?usp=sharing" target="_blank">Meeting Slides</a></p>
+                        <p><a href="https://www.youtube.com/watch?v=Vxig1U0EfPU" target="_blank">Meeting Recording</a> </p>
             </div>
         </div>
         <br />
@@ -26,7 +26,7 @@ export default () => (
         <div className="scroll green">
             <div className="gray">
                 <h3>2020</h3>
-                    <p><a href="https://beaverhacks-summer-2020.devpost.com/">BeaverHacks Summer 2020</a></p>
+                    <p><a href="https://beaverhacks-summer-2020.devpost.com/" target="_blank">BeaverHacks Summer 2020</a></p>
                     <p><a href="https://osu-spring2020.devpost.com/" target="_blank">BeaverHacks Spring 2020</a></p>
             </div>
 
