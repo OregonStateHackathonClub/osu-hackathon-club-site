@@ -48,44 +48,56 @@ export default () => (
             <div className="green">
                 <h3>August 12, 2020</h3>
                 <h4>Club Meeting!</h4>
-                <p>Time: 5:30 PDT / 7:30 CT / 8:30 EST</p>
-                <p>We'll be discussing officer nominations and voting! Make sure to tune in!</p>
+                <div className="gray">
+                    <p>Time: 5:30 PDT / 7:30 CT / 8:30 EST</p>
+                    <p>We'll be discussing officer nominations and voting! Make sure to tune in!</p>
+                </div>
             </div>
             <br />
 
             <div className="blue">
                 <h3>July 22, 2020</h3>
                 <h4>Club Meeting!</h4>
-                <p>Time: 5:30 PDT / 7:30 CT / 8:30 EST</p>
-                <p>We'll be discussing BeaverHacks, open officer positions, 
-                    future ideas for the club, and more! (The meeting recording and slides 
-                    will be posted later for those who can't make it.)</p>
+                <div className="gray">
+                    <p>Time: 5:30 PDT / 7:30 CT / 8:30 EST</p>
+                    <p>We'll be discussing BeaverHacks, open officer positions, 
+                        future ideas for the club, and more! (The meeting recording and slides 
+                        will be posted later for those who can't make it.)</p>
+                </div>
             </div>
             <br />
             <div className="green">
                 <h3>July 5, 2020</h3>
                 <h4>BeaverHacks Summer 2020 Results:</h4>
-                <ul>
-                    <li>🥇FIRST PLACE OVERALL: <a href="https://devpost.com/software/scribe-y89kw4"><Button variant="orange" size="sm">Scribe</Button></a></li>
-                    <li>🥈SECOND PLACE OVERALL: <a href="https://devpost.com/software/welcome-to-osu"><Button variant="orange" size="sm">Welcome to OSU</Button></a></li>
-                    <li>🥉THIRD PLACE OVERALL: <a href="https://devpost.com/software/braille-converter"><Button variant="orange" size="sm">Braille Converter</Button></a></li>
-                    <li>🏅FIRST PLACE NEW STUDENT: <a href="https://devpost.com/software/welcome-to-osu"><Button variant="orange" size="sm">Welcome to OSU</Button></a></li>
-                    <li>🥇FIRST PLACE GRADUATE/ALUMNI: <a href="https://devpost.com/software/library-zfcwo5"><Button variant="orange" size="sm">Readify</Button></a></li>
-                    <p>Check out all of the projects here: <a href="https://beaverhacks-summer-2020.devpost.com/submissions" target="_blank"><Button variant="orange" size="sm">Devpost</Button></a></p>
-                </ul>
+                <div className="gray">
+                    <ul>
+                        <li>🥇FIRST PLACE OVERALL: <a href="https://devpost.com/software/scribe-y89kw4"><Button variant="orange" size="sm">Scribe</Button></a></li>
+                        <li>🥈SECOND PLACE OVERALL: <a href="https://devpost.com/software/welcome-to-osu"><Button variant="orange" size="sm">Welcome to OSU</Button></a></li>
+                        <li>🥉THIRD PLACE OVERALL: <a href="https://devpost.com/software/braille-converter"><Button variant="orange" size="sm">Braille Converter</Button></a></li>
+                        <li>🏅FIRST PLACE NEW STUDENT: <a href="https://devpost.com/software/welcome-to-osu"><Button variant="orange" size="sm">Welcome to OSU</Button></a></li>
+                        <li>🥇FIRST PLACE GRADUATE/ALUMNI: <a href="https://devpost.com/software/library-zfcwo5"><Button variant="orange" size="sm">Readify</Button></a></li>
+                        <p>Check out all of the projects here: <a href="https://beaverhacks-summer-2020.devpost.com/submissions" target="_blank"><Button variant="orange" size="sm">Devpost</Button></a></p>
+                    </ul>
+                </div>
             </div>
 
             <br />
             <div className="blue">
                 <h3>May 14, 2020</h3>
                 <h4>Hackathon Club in the OSU EECS News!</h4>
-                <p><a href="http://blogs.oregonstate.edu/eecsnews/2020/05/14/its-business-as-usual-for-online-hackathon-club/"><Button variant="orange" size="sm">Article here</Button></a></p>
+                <div className="gray">
+                    <a href="http://blogs.oregonstate.edu/eecsnews/2020/05/14/its-business-as-usual-for-online-hackathon-club/"><Button variant="orange" size="sm">Article here</Button></a>
+                </div>
             </div>
 
             <br />
             <div className="green">
                 <h3>May 7, 2020</h3>
-                <h4>BeaverHacks Summer 2020</h4><p>Register on Devpost by 11:59 pm on 6/15</p><a href="https://beaverhacks-summer-2020.devpost.com/" target="_blank"><Button variant="orange" size="sm">Devpost</Button></a>
+                <h4>BeaverHacks Summer 2020</h4>
+                <div className="gray">
+                    <p>Register on Devpost by 11:59 pm on 6/15</p>
+                    <a href="https://beaverhacks-summer-2020.devpost.com/" target="_blank"><Button variant="orange" size="sm">Devpost</Button></a>
+                </div>
             </div>
 
             <br />
@@ -93,7 +105,9 @@ export default () => (
             <div className="blue">
                 <h3>April 27, 2020</h3>
                 <h4>HackerRank Weekly Challenges</h4>            
-                <a href="https://osu-cs.slack.com/archives/C5GHWF84A" target="_blank"><Button variant="orange" size="sm">Take on our challenges here!</Button></a>
+                <div className="gray">
+                    <a href="https://osu-cs.slack.com/archives/C5GHWF84A" target="_blank"><Button variant="orange" size="sm">Take on our challenges here!</Button></a>
+                </div>
             </div>
         </div>
     </Layout>

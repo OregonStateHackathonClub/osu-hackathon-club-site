@@ -19,27 +19,27 @@ a {
 .about-section {
     background-color: #e76f51;
     /* opacity: 0.5; */
-    padding: 40px 50px;
+    padding: 30px 30px;
 }
 
 .current-board {
     background-color: #e9c46a;
-    padding: 20px 50px;
+    padding: 30px 30px;
 }
 
 .past-board {
     background-color: #2a9d8f;
-    padding: 20px 50px;
+    padding: 30px 30px;
 }
 
 .upcoming-events {
     background-color: #e9c46a;
-    padding: 20px 50px;
+    padding: 30px 30px;
 }
 
 .join {
     background-color: #2a9d8f;
-    padding: 20px 50px;
+    padding: 30px 30px;
 }
 
 div.scroll {  
@@ -92,4 +92,10 @@ footer {
     padding: 3px;
     background-color: DarkSalmon;
     color: white;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }

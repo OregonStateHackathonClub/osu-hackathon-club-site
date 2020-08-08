@@ -12,8 +12,9 @@ export default () => (
         <div className="about-section">
             <div className="gray">
                 <p>Hello, we're the OSU Hackathon Club!</p> 
-                <p>Because our club was originally created with the needs of Ecampus Computer Science students in mind, our monthly meetings, weekly HackerWeeks competitions, and our quarterly BeaverHacks hackathons are held entirely online.</p> 
-                <p>However, we also fund in-person events in locations wherever there is sufficient interest! (If interested, please contact our Local Chapter Coordinator for more information). In the future, there are plans to create an on-campus group as well -- let us know if you are interested in helping develop the on-campus group or planning any in-person events!</p> 
+                <p>Because our club was originally created with the needs of Ecampus CS students in mind, our monthly meetings, weekly HackerWeeks competitions, and our quarterly BeaverHacks hackathons are held entirely online.</p> 
+                <p>However, we also fund in-person events in locations wherever there is sufficient interest! Contact our Local Chapter Coordinator for more information.</p> 
+                <p>In the future, there are plans to create an on-campus group as well. Let us know if you are interested in helping develop the on-campus group or planning any in-person events.</p> 
                 <p>Through small, humble beginnings our club has continued to grow through the support of OSU students, alumni and faculty. We welcome tech enthusiasts and programmers of all skill levels and experiences! </p>
             </div>
         </div>
