@@ -2,7 +2,7 @@ h1, h2, h3, h4 {
     font-family: "Bangers";
 }
 
-p {
+p, li {
     font-family: "Open Sans";
 }
 

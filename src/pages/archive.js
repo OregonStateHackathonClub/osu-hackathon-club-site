@@ -14,7 +14,8 @@ export default () => (
             <div className="gray">
                 <h3>2020</h3>
                     <h4>August</h4>
-                        <p>Slide and recording links coming soon!</p>
+                        <p><a href="https://docs.google.com/presentation/d/1cCb74E-1FkfXr0BMND3eo_f6Wl2sDE8ORcjDE5pn4rk/edit?usp=sharing" target="_blank">Meeting Slides</a></p>
+                        <p><a href="https://youtu.be/uN-rdQf1DaI" target="_blank">Meeting Recording</a></p>
                     <h4>July</h4>
                         <p><a href="https://docs.google.com/presentation/d/1XW-YbOhOEzJ5uaqXQCbsYp-LHQIA4wmx8NX2QPAYKwE/edit?usp=sharing" target="_blank">Meeting Slides</a></p>
                         <p><a href="https://www.youtube.com/watch?v=Vxig1U0EfPU" target="_blank">Meeting Recording</a> </p>

@@ -46,6 +46,43 @@ export default () => (
             </div>
             <br />
             <div className="green">
+                <h3>August 26, 2020</h3>
+                <h4>Register for BeaverHacks by Sunday 9/6 at 11:59 PM PDT</h4>
+                <div className="gray">
+                    <ul>
+                        <li>BeaverHacks Fall 2020</li>
+                        <li>Date: Sept. 10 - 13 (Thursday - Sunday)</li>
+                        <li>Theme: Health</li>
+                        <li>Registration: (closes on Sunday 9/6 at 11:59 PM PDT)
+                            <ol>
+                                <li> Sign up on <a href="https://beaverhacks-fall-2020.devpost.com/"><Button variant="orange" size="sm">Devpost</Button></a></li>
+                                <li> Fill out the <a href="https://forms.gle/o66WGXcD2Z5sJdZ98"><Button variant="orange" size="sm">Registration Form</Button></a></li>
+                                <li> Fill out the <a href="https://forms.gle/9bxnGgiJQJswKwr26"><Button variant="orange" size="sm">Team Form (1 - 4 people per team)</Button></a></li>
+                                <li> Join us (if you haven’t already!) on the <a href="https://osu-hackathon.slack.com/archives/CJ72JNCSH"><Button variant="orange" size="sm">Hackathon Club Slack Workspace</Button></a></li>
+                            </ol>
+                        </li>
+                        <li>Note: If you can no longer attend BeaverHacks, please unregister on both Devpost and the Registration Form for our records. Thanks! </li>
+                    </ul>
+                </div>
+            </div>
+            <br />
+            <div className="blue">
+                <h3>August 19, 2020</h3>
+                <h4>New Officers</h4>
+                <div className="gray">
+                    <p>Jordan, Ryan, and Karen want to give a warm welcome to the new additions to the team!</p>
+                    <ul>
+                        <li>Judy Lee - Historian</li>
+                        <li>Sriram Narayanan - Local Chapter Coordinator</li>
+                        <li>Alaric Hartsock - Hackathon Coordinator</li>
+                        <li>Luwey Hon - Communications Coordinator</li>
+                        <li>Ashley Owens - HackerWeeks Coordinator</li>
+                        <li>Sam Kinkade - Treasurer</li>
+                    </ul>
+                </div>
+            </div>
+            <br />
+            <div className="green">
                 <h3>August 12, 2020</h3>
                 <h4>Club Meeting!</h4>
                 <div className="gray">
