@@ -24,8 +24,14 @@ export default () => (
         <div className="current-board scroll">
             <div className="gray">
                 <h3>President</h3><p>Jordan Bartos</p>
-                <h3>Vice President and Local Chapter Coordinator</h3><p>Ryan Davis</p>
+                <h3>Vice President</h3><p>Ryan Davis</p>
                 <h3>Webmaster and Secretary</h3><p>Karen Berba</p>
+                <h3>Treasurer</h3><p>Sam Kinkade</p>
+                <h3>Historian</h3><p>Judy Lee</p>
+                <h3>Local Chapter Coordinator</h3><p>Sriram Narayanan</p>
+                <h3>Hackathon Coordinator</h3><p>Alaric Hartsock </p>
+                <h3>Communications Coordinator</h3><p>Luwey Hon</p>
+                <h3>HackerWeeks Coordinator</h3><p>Ashley Owens</p>
             </div>
         </div>
 
