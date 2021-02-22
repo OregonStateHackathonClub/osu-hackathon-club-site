@@ -1,0 +1,11 @@
+[build]
+  command = "npm run build"
+  publish = "static/"
+
+# Redirect rule defined in "_redirect" isn't working.
+# using netlify.toml instead.
+# Refer to the documentation - https://www.netlify.com/docs/netlify-toml-reference/#getting-started
+[[redirects]]
+  from = "/*"
+  to = "/index.mdx"
+  status = 200
