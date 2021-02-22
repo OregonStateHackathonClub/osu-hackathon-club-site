@@ -122,13 +122,13 @@ export default props => {
             >
               <Icon glyph="instagram" size={36} />
             </A>
-            <A
+            {/* <A
               href="https://github.com/OregonStateHackathonClub"
               title="GitHub"
               sx={{ mx: 2 }}
             >
               <Icon glyph="github" size={36} />
-            </A>
+            </A> */}
             <A
               href="https://www.youtube.com/channel/UCoMBBQmEvPmzKeUjA-z8DGQ"
               title="Youtube"
@@ -139,6 +139,12 @@ export default props => {
             <A href="mailto:hackathonclub@oregonstate.edu" title="Email" sx={{ mx: 2 }}>
               <Icon glyph="email" size={36} />
             </A>
+            <A 
+              href="https://osu-hackathon.slack.com/" 
+              title="Slack" sx={{ mx: 2 }}
+            >
+              <Icon glyph="slack" size={36} />
+            </A>            
           </Flex>
           <Box
             sx={{

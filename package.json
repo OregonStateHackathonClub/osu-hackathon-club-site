@@ -1,8 +1,8 @@
 {
-  "name": "@angelhacks/site",
+  "name": "@beaverhacks/site",
   "version": "1.0.0",
   "private": true,
-  "author": "@lachlanjc and AngelHacks <hello@angelhacks.org>",
+  "author": "hackathonclub@oregonstate.edu",
   "license": "MIT",
   "scripts": {
     "build": "node_modules/.bin/next build && node_modules/.bin/next export",
