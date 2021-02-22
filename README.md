@@ -1,7 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/52d478f8-9eec-4470-90b1-f01516bda74c/deploy-status)](https://app.netlify.com/sites/osu-hackathon-club/deploys)
+# BeaverHacks Website
 
-# osu-hackathon-club-site
-OSU Hackathon Club Website
+[![Netlify Status](https://api.netlify.com/api/v1/badges/52d478f8-9eec-4470-90b1-f01516bda74c/deploy-status)](https://app.netlify.com/sites/osu-hackathon-club/deploys)
 
 ## Link
 https://www.beaverhacks.com/
@@ -12,6 +11,11 @@ https://www.beaverhacks.com/
 * Ryan Davis
 * HJ
 * Sam Kinkade
+
+## Template from: 
+* [**angelhacks.org**](https://angelhacks.org)
+
+## MIT License
 
 ## Rules for Contributing
 1. Create a new branch for features to be added
@@ -42,3 +46,4 @@ yarn install
 ```
 yarn start
 ```
+

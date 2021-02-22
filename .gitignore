@@ -1,2 +1,6 @@
-node_modules
-.cache/redux/redux.node.state_0
+node_modules/
+*.log
+.cache/
+**/.DS_Store
+.next/
+out/
