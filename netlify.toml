@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build"
+  command = "npm build"
   publish = "static/"
 
 # Redirect rule defined in "_redirect" isn't working.
