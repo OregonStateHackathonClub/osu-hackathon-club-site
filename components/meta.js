@@ -3,7 +3,7 @@ import Head from 'next/head'
 export default ({
   title = 'BeaverHacks - Hosted by the Oregon State University Hackathon Club',
   description = 'Online, quarterly hackathons for OSU students and alumni',
-  image = 'https://angelhacks.org/public/banner-inverted.png',
+  image = './static/bh-logo-circle.png',
   url = 'https://beaverhacks.com'
 }) => (
   <Head>
