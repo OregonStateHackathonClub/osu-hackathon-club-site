@@ -1,5 +1,6 @@
-import { Container, Gallery } from '../components/blocks'
+import { Container, Gallery} from '../components/blocks'
 import { Header, Schedule } from '../components/blocks'
+import { Box } from 'rebass'
 
 <Header sx={{ bg: 'accent' }}>
 
@@ -9,19 +10,70 @@ import { Header, Schedule } from '../components/blocks'
 
 <Schedule>
 
-<!-- Add schedule here later -->
+<Container 
+  sx={{
+    h1: {
+      color: 'primary',
+      fontSize: 5,
+      fontWeight: 'bold'
+    },
+    strong: {
+      color: 'alt'
+    }
+  }}>
 
-- Wednesday, April 7
+  ### Wednesday April 7
+  <Box variant="card">
 
-- Thursday, April 8
+  **5:00 pm PT** - Opening Ceremony 
+  
+  (Zoom link on Slack! Slides will be posted after!)
 
-- Friday, April 9
+  **11:59 pm PT** - Project Proposals due on Slack (in #proposals)
 
-- Saturday, April 10
+  Remember hacking begins tomorrow!
+  </Box>
 
-- Sunday, April 11
 
+  ### Thursday April 8
+  <Box variant="card">
+
+    
+  Hacking Day 1
+
+  **12:01 am PT** - Hacking begins 
+  
+  </Box>
+
+  ### Friday, April 9
+  <Box variant="card">
+
+  
+  Hacking Day 2
+  </Box>
+
+  ### Saturday, April 10
+  <Box variant="card">  
+
+  
+  Hacking Day 3
+  
+  </Box>
+
+  ### Sunday April 11
+  <Box variant="card">
+
+  Hacking Day 4
+
+  **4:00 pm PT** - Hacking ends
+  
+  **5:00 pm PT** - Project Demos
+  
+  </Box>
+    
+</Container>
 </Schedule>
+
 
 <Container 
   sx={{
@@ -37,9 +89,8 @@ import { Header, Schedule } from '../components/blocks'
 
 # Workshops
 
-Coming soon!
+**Coming soon!**
 
-**We'll be posting a more detailed schedule in a bit!**
 
 
 
