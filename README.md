@@ -6,6 +6,7 @@
 https://www.beaverhacks.com/
 
 ## Contributors
+* Michelle Zelechoski
 * Karen Berba
 * Jordan Bartos
 * Ryan Davis
