@@ -22,7 +22,7 @@ export const palette = {
   snow: '#f9fafc',
   white: '#ffffff',
   // brand
-  primary: '#6290c8',
+  primary: '#1d3461',
   primaryWash: '#ffdc89',
   /*
   alt: '#007a87',
@@ -44,13 +44,13 @@ export const palette = {
   altLight: '#829cbc',
   altWash: '#379683',
   altWashLight: '#9cf0df',
-  accent: '#376996',
+  accent: '#1d3461',
   accentWash: '#befad9',
   accentLight: '#8ee4af',
   accentDark: '#189975',
   success: '#3fb34f',
   error: '#b23f42',
-  cool: '#1f487e',
+  cool: '#1d3461',
   coolWash: '#7cecff',
   lemonade: '#ff5a5f'
 }
@@ -167,8 +167,8 @@ const theme = merge(base, {
     a: {
       color: 'primary',
       cursor: 'pointer',
-      ':hover, :focus': {
-        color: 'alt'
+      ':hover, :focus, :active, :visited': {
+        color: 'altLight'
       }
     },
     p: {
