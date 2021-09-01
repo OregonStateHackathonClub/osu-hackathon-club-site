@@ -266,7 +266,7 @@ export const Schedule = props => (
     {...props}
     variant="container"
     sx={{
-      columnCount: [null, 2],
+      columnCount: [null, 1],
       columnGap: [null, 3],
       columnFill: [null, 'balance'],
       h2: {

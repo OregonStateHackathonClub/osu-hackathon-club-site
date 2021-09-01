@@ -6,7 +6,7 @@ export default ({ size = 50, light = false, ...props }) => (
     <A sx={{ cursor: 'pointer', lineHeight: 0 }}>
       <Image
         {...props}
-        src="./static/bh-logo-circle.png"
+        src="./static/images/bh-logo-circle.png"
         alt="BeaverHacks avatar"
         width={size}
         height={size}
