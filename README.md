@@ -12,6 +12,7 @@ https://www.beaverhacks.com/
 * Ryan Davis
 * HJ
 * Sam Kinkade
+* Kharissa Fernando Smith
 
 ## Template from: 
 * [**angelhacks.org**](https://angelhacks.org)
