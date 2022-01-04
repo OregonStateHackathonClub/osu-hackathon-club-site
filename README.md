@@ -12,6 +12,7 @@ https://www.beaverhacks.com/
 * Ryan Davis
 * HJ
 * Sam Kinkade
+* Rachel Peterson
 
 ## Template from: 
 * [**angelhacks.org**](https://angelhacks.org)
